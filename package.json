@@ -2,6 +2,7 @@
   "dependencies": {
     "ansi-styles": "^4.3.0",
     "chalk": "^4.1.0",
+    "colors": "^1.4.0",
     "commander": "^6.2.0",
     "nodemon": "^2.0.6",
     "supports-color": "^7.2.0"
