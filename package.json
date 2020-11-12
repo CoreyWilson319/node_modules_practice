@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "nodemon": "^2.0.6",
+    "supports-color": "^7.2.0"
+  },
+  "name": "node_modules_practice",
+  "description": "- [ ] Fork and clone this repo - [ ] Initialize node in your cloned repo so it becomes a node project!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyWilson319/node_modules_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyWilson319/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/CoreyWilson319/node_modules_practice#readme"
+}
