@@ -6,4 +6,4 @@ console.log(fullName('corey', 'wilson'));
 console.log(style.color.green.open)
 
 console.log(chalk.blue("hello"))
-console.log(chalk.blue.bgRed.bold('hello again'))
+console.log(chalk.blue.bgRed.bold(fullName('Corey', 'Wilson')))
