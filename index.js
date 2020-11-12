@@ -5,6 +5,5 @@ console.log(fullName('corey', 'wilson'));
 
 console.log(style.color.green.open)
 
-const testField = document.getElementById("first")
-
-console.log(chalk.blue(testField))
+console.log(chalk.blue("hello"))
+console.log(chalk.blue.bgRed.bold('hello again'))
